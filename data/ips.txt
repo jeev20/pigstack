@@ -1,0 +1,5 @@
+facebook.com
+host.docker.internal
+192.168.21.18
+stackoverflow.com
+youtube.com
